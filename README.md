@@ -1,1 +1,1 @@
-[Javadoc](target/apidocs/)
+[Javado](target/apidocs/)
